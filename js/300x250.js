@@ -124,7 +124,7 @@ function loadBall() {
 
     tween.call(() => {
     loadText();
-    }, null, "-=1"); // започни 0.5 сек след предишното
+    }, null, "-=1");
 
 }
 
